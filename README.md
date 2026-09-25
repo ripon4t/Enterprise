@@ -205,6 +205,6 @@ Figure 11: Control-flow diagram for ETL Pipeline to automate the system through 
 
 Figure 12: Purchase Cube for Multidimensional Analysis
 
-![Purchase Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/SCT.png)  
+![Purchase Analysis](https://github.com/ripon4t/Enterprise/Figures/SCT.png)  
 
 Figure 13: Purchase Cube for Tabular Analysis
