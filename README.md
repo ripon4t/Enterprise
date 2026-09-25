@@ -23,11 +23,11 @@ Data Management and Processes involved with
 ## High-Level Model Diagram
 - Created a high-level model diagram, including a conceptual model and a bubble chart, to effectively communicate complex data models to non-technical stakeholders, improving understanding and decision-making.
   
-   ![Purchase Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/Conceptual%20model.png)
+   ![Purchase Analysis](https://github.com/ripon4t/Enterprise/blob/main/Figures/Conceptual%20model.png)
 
 Figure 1: A high-level graphical (conceptual model) representation of OLTP Operational Data Store (ODS) using Bill Inmon’s Relational Modeling Techniques (Normalized to 3NF).
 
-  ![Purchase Analysis](https://github.com/sshahidul29/Supply-Chain-Data-Modernization/blob/main/Figures/Bubble%20Chart.PNG)  
+  ![Purchase Analysis](https://github.com/ripon4t/Enterprise/blob/main/Figures/Bubble%20Chart.PNG)  
 
 Figure 2: A high-level graphical (bubble chart) representation of a business process of Enterprise Data Warehouse using Ralph Kimball’s Dimensional Modelling Approach.
 ## SQL Code
@@ -151,11 +151,11 @@ while @starthour<=23
 - Designed and implemented Enterprise Data Warehouse (EDW) using Ralph Kimball’s Dimensional Modelling approach.
 - Created and configured Staging, EDW, and Control Framework databases on MS SQL Server. 
 
-  ![Purchase Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/SCODS.png)
+  ![Purchase Analysis](https://github.com/ripon4t/Enterprise/blob/main/Figures/SCODS.png)
 
 Figure 3: OLTP Operational Data Store (ODS) using Bill Inmon’s Relational Modeling Techniques (Normalized to 3NF).
 
-  ![Purchase Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/SCEDW.png)
+  ![Purchase Analysis](https://github.com/ripon4t/Enterprise/blob/main/Figures/SCEDW.png)
 
 Figure 4: Enterprise Data Warehouse using Ralph Kimball’s Dimensional Modelling Approach.
 
@@ -169,31 +169,31 @@ Figure 4: Enterprise Data Warehouse using Ralph Kimball’s Dimensional Modellin
 - Troubleshooting and root cause analysis activities to fix bugs in the data integration process. 
 - Implemented server agent for automated data loading and scheduling.
   
-![Purchase Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/ODSETL1.png)
+![Purchase Analysis](https://github.com/ripon4t/Enterprise/blob/main/Figures/ODSETL1.png)
 
  Figure 5: Control-flow diagram for ETL Pipeline from flat file source to ODS
 
-  ![Purchase Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/ODSETL2.png)
+  ![Purchase Analysis](https://github.com/ripon4t/Enterprise/blob/main/Figures/ODSETL2.png)
 
  Figure 6: Data-flow diagram of ETL Pipeline from flat file source to ODS Product table
 
-  ![Purchase Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/ODSETL1.png)
+  ![Purchase Analysis](https://github.com/ripon4t/Enterprise/blob/main/Figures/ODSETL1.png)
 
 Figure 7: Data-flow diagram for Incremental load of ETL Pipeline from flat file source to ODS Purchase transactions table
 
-![Purchase Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/SCETL4.PNG) 
+![Purchase Analysis](https://github.com/ripon4t/Enterprise/blob/main/Figures/SCETL4.PNG) 
 
  Figure 8: Control-flow diagram for ETL Pipeline for EDW
 
-  ![Purchase Analysis](https://github.com/snmhoque123/sql.github.io/blob/main/Figures/SCETL5.png) 
+  ![Purchase Analysis](https://github.com/ripon4t/Enterprise/blob/main/Figures/SCETL5.png) 
 
  Figure 9: Data-flow diagram of ETL Pipeline for EDW Dimension table
 
-  ![Purchase Analysis](https://github.com/snmhoque123/sql.github.io/blob/main/Figures/SCETL6.png) 
+  ![Purchase Analysis](https://github.com/ripon4t/Enterprise/blob/main/Figures/SCETL6.png) 
 
 Figure 10: Data-flow diagram for Incremental load of ETL Pipeline EDW Fact table
 
-![Sales Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/Control.png)
+![Sales Analysis](https://github.com/ripon4t/Enterprise/blob/main/Figures/Control.png)
 
 Figure 11: Control-flow diagram for ETL Pipeline to automate the system through SQL Server Agent
 
@@ -205,6 +205,6 @@ Figure 11: Control-flow diagram for ETL Pipeline to automate the system through 
 
 Figure 12: Purchase Cube for Multidimensional Analysis
 
-![Purchase Analysis](https://github.com/ripon4t/Enterprise/Figures/SCT.png)  
+![Purchase Analysis](https://github.com/ripon4t/Enterprise/blob/main/Figures/SCT.png)  
 
 Figure 13: Purchase Cube for Tabular Analysis
