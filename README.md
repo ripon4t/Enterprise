@@ -201,7 +201,7 @@ Figure 11: Control-flow diagram for ETL Pipeline to automate the system through 
 
 - Data Mart Cubes were built using SQL Server Analysis Services (SSAS) for multi-dimensional and Tabular analysis for business users. These cubes supported interactive dashboards and data visualizations for informed decision-making.
 
-![Purchase Analysis](https://github.com/snmhoque123/SQL_Scripts/blob/main/Figures/SCM.png)  
+![Purchase Analysis](https://github.com/ripon4t/Enterprise/blob/main/Figures/SCM.png)  
 
 Figure 12: Purchase Cube for Multidimensional Analysis
 
